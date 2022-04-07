@@ -1,0 +1,28 @@
+﻿{
+  "exercises": [
+    {
+      "name":"Croci con manubri su panca piana",
+      "description":"Si aprono le braccia tenendo i gomiti leggermente flessi. La presa è neutra; i palmi saranno quindi rivolti verso l'alto quando avremo divaricato completamente le braccia. Durante il movimento l'unica articolazione che si muove è quella della spalla. Poi le braccia si richiudono evitando però di ritornare nella posizione iniziale con le braccia perpendicolari al suolo, perché in tale condizione la tensione sui pettorali si annulla, per cui è necessario fermarsi un po' prima.",
+      "image":"#imageLiteral(resourceName: 'croci-con-manubri-su-panca-piana.jpg')",
+      "primaryMuscle":"Pettorale"
+    },
+    {
+      "name":"Distensioni con manubri su panca piana",
+      "description":"Si sollevano i manubri verso l'alto mantenendoli sempre paralleli al suolo senza muovere altre parti del corpo. Quando avremo i gomiti completamente distesi, i manubri si saranno avvicinati fin quasi a toccarsi e la tensione sui pettorali sarà molto bassa. Per questo non bisogna indugiare in tale posizione e con un movimento fluido si continuano le ripetizioni. Durante la discesa dei manubri dobbiamo sentire uno stiramento ai pettorali e per questo i gomiti devono andare sufficientemente indietro da consentire alle scapole di avvicinarsi. Se non si sente lo stiramento del gran pettorale e non si riesce ad addurre le scapole, probabilmente la distanza fra le mani è troppo ampia o c'è qualche altro difetto posturale da correggere. Se non ci si concentra sull'adduzione delle scapole, alla lunga un'esecuzione incompleta dell'esercizio può causare una cifosi dorsale ovvero spalle in avanti e dorso curvo. Pertanto dopo questo esercizio è opportuno eseguire esercizi di compenso che comportino l'avvicinamento delle scapole come molti esercizi per i dorsali tra cui il rematore.",
+      "image":"#imageLiteral(resourceName: 'distensioni-con-manubri-su-panca-piana.jpg')",
+      "primaryMuscle":"Pettorale"
+    },
+    {
+      "name":"Distensioni con bilanciere su panca piana declinata",
+      "description":"Si porta il bilanciere verso il basso fino a sfiorare il torace, quindi dopo qualche istante di tensione si spinge il peso verso l'alto senza muovere altre parti del corpo. Quando avremo i gomiti completamente distesi, la tensione sui pettorali sarà molto bassa, per cui non bisogna indugiare in tale posizione e con un movimento fluido si continuano le ripetizioni. Durante la discesa del bilanciere dobbiamo sentire uno stiramento ai pettorali e per questo i gomiti devono andare sufficientemente indietro da consentire alle scapole di avvicinarsi. Se non si sente lo stiramento del gran pettorale e non si riesce ad addurre le scapole, probabilmente la distanza fra le mani è troppo ampia o c'è qualche altro difetto posturale da correggere. Se non ci si concentra sull'adduzione delle scapole, alla lunga un'esecuzione incompleta dell'esercizio può causare una cifosi dorsale ovvero spalle in avanti e dorso curvo. Pertanto dopo questo esercizio è opportuno eseguire esercizi di compenso che comportino l'avvicinamento delle scapole come molti esercizi per i dorsali tra cui il rematore.",
+      "image":"#imageLiteral(resourceName: 'distensioni-con-bilanciere-su-panca-piana-declinata.jpg')",
+      "primaryMuscle":"Pettorale"
+    },
+    {
+      "name":"Distensioni con bilanciere su panca inclinata",
+      "description":"Si porta il bilanciere verso il basso fino a sfiorare il torace, quindi dopo qualche istante di tensione si spinge il peso verso l'alto senza muovere altre parti del corpo. Quando avremo i gomiti completamente distesi, la tensione sui pettorali sarà molto bassa, per cui non bisogna indugiare in tale posizione e con un movimento fluido si continuano le ripetizioni. Durante la discesa del bilanciere dobbiamo sentire uno stiramento ai pettorali e per questo i gomiti devono andare sufficientemente indietro da consentire alle scapole di avvicinarsi. Se non si sente lo stiramento del gran pettorale e non si riesce ad addurre le scapole, probabilmente la distanza fra le mani è troppo ampia o c'è qualche altro difetto posturale da correggere. Se non ci si concentra sull'adduzione delle scapole, alla lunga un'esecuzione incompleta dell'esercizio può causare una cifosi dorsale ovvero spalle in avanti e dorso curvo. Pertanto dopo questo esercizio è opportuno eseguire esercizi di compenso che comportino l'avvicinamento delle scapole come molti esercizi per i dorsali tra cui il rematore.",
+      "image":"#imageLiteral(resourceName: 'distensioni-con-bilanciere-su-panca-inclinata.jpg')",
+      "primaryMuscle":"Pettorale"
+    }
+  ]
+}
